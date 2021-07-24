@@ -2,7 +2,7 @@ Flutter package for loading image with shimmer and fade in effect for smooth tra
 
 ## Features
 
-[![Screen shot](./assets/screenshot.gif)](./assets/screenshot.gif)
+[![Screen shot](https://raw.githubusercontent.com/nguythaitinh/shimmer_image/main/assets/screenshot.gif)](https://raw.githubusercontent.com/nguythaitinh/shimmer_image/main/assets/screenshot.gif)
 
 ## Getting started
 
