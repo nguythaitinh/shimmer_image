@@ -1,7 +1,7 @@
 name: shimmer_image
 description: Flutter package for loading image with shimmer and fade in effect for smooth transition
 version: 0.0.1
-homepage:
+homepage: https://github.com/nguythaitinh/shimmer_image
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
